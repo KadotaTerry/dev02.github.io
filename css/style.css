@@ -1,0 +1,24 @@
+/* Using CSS Selectors 
+element names
+ids
+classes
+(special stuff)
+*/
+div > img {
+
+   border: dashed 3px #D3D3D3;
+}
+
+
+.contentBox {
+  border: solid 1px #33691E;
+  background-color: #F48FB1;
+  height: 250px;
+  width: 250px;
+  margin: auto;
+  }
+
+.anotherClass {
+  width: 800px;
+  height: 500px;
+}
